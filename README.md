@@ -24,6 +24,11 @@ A full-stack AI chatbot using FastAPI + Streamlit powered by LangGraph + LangCha
 
 ---
 
+## How to Run
+- python -m venv venv
+- source venv/Scripts/activate
+- pip install -r requirements.txt
+---
 ## 🛠 Installation
 
 ### 1. Clone the repository
