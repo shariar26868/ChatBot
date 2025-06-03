@@ -1,4 +1,10 @@
 # 🤖 LangGraph AI Agent
+# 🖼️ UI Preview
+
+Below is a screenshot of the AI Agent Interface:
+
+<img src="https://github.com/user-attachments/assets/3c35424e-bb1e-4b3c-a99a-af5825ee4bce" alt="AI Agent UI Screenshot" width="700"/>
+
 
 A full-stack AI chatbot using FastAPI + Streamlit powered by LangGraph + LangChain. Supports multi-model LLMs from OpenAI and Groq, and integrates optional real-time web search via Tavily.
 
