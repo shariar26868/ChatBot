@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+langgraph
+python-dotenv  # optional if you're using .env files for API keys
